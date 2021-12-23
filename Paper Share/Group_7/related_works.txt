@@ -1,0 +1,4 @@
+相似研究
+1.Empirical asset pricing via machine learning. The Review of Financial Studies, 2020.
+2.Predicting Extreme Returns in Chinese Stock Market: An Application of Contextual Fundamental Analysis. Journal of Accounting and Finance, 2017.
+3.Maxing out: Stocks as lotteries and the cross-section of expected returns. Journal of financial economics, 2011.
